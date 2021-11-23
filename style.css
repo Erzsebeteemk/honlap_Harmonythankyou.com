@@ -1,0 +1,56 @@
+* {    
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eddbf4;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#files {
+    background-image: linear-gradient( 
+        rgba(255, 255, 255, 0.1), 
+        rgba(255, 255, 255, 0.8)), url("imageArunachala/Arunachala.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: border-box;
+    background-attachment: local;
+    background-size: cover;
+
+    font-family: 'MonteCarlo', cursive;
+    height: 100%;
+}
+
+#cim {
+    /* color: #200d33; */
+    opacity: 0.7;
+}
+
+#May {
+    font-family: initial;
+    font-size: x-large;
+    
+}
+
+.kiv {
+    color: #141447;
+    transition: 6s;
+}
+
+.kiv:hover {
+    /* color: rgb(184, 155, 184); */
+    color: white;
+}
+
+
+
+#inputMezo {
+    width: 60%;
+}
+
+#right {
+    font-size: xx-small;
+}
+
