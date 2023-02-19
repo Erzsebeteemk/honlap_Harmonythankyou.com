@@ -1,0 +1,9 @@
+[submodule "en/gallery"]
+	path = en/gallery
+	url = ../honlap_gallery.git
+[submodule "hu/todos"]
+	path = hu/todos
+	url = ../honlap_todos.git
+[submodule "hu/cv-template"]
+	path = hu/cv-template
+	url = ../honlap_cv-template
